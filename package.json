@@ -1,0 +1,17 @@
+{
+  "name": "game2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.26.1",
+    "cypress": "^9.7.0"
+  }
+}
